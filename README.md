@@ -1,6 +1,10 @@
 # simple eps8266 :signal_strength: internet status led :vertical_traffic_light:
 eps8266 internet status led using wemos d1 mini (esp8266) and ws2812 leds)
 
+I got tired of my girlfriend asking if the internet is working :grinning: so i created this simple device.
+
+The wemos Pings google.com every 10 seconds if it can the leds turn green if it fails the leds turns red.
+
 
 ### hardware :nut_and_bolt: :
 ##### BOM :clipboard::
