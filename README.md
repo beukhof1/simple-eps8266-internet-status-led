@@ -1,4 +1,4 @@
-# simple eps8266 :signal_strength: internet status led :vertical_traffic_light:
+# simple esp8266 :signal_strength: internet status led :vertical_traffic_light:
 eps8266 internet status led using wemos d1 mini (esp8266) and ws2812 leds)
 
 I got tired of my girlfriend asking if the internet is working :grinning: so i created this simple device.
